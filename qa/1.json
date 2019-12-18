@@ -234,5 +234,155 @@
             "Lòng hỗng tràng",
             "Biểu mô trụ đơn tiết nhày"
         ]
+    },
+    {
+        "q": "Tiêu bản gì ?",
+        "s": "dd_1",
+        "a": "Dạ dày",
+        "n": [
+            "Thực quản",
+            "Hỗng tràng",
+            "Khí quản",
+            "Da",
+            "Tá tràng",
+            "Thận"
+        ]
+    },
+    {
+        "q": "Biểu mô gì ? [Khung đỏ]",
+        "s": "dd_2",
+        "a": "Biểu mô trụ đơn tiết nhày",
+        "n": [
+            "Vi nhung mao",
+            "Tế bào đài",
+            "Tế bào trụ có vi nhung mao",
+            "Biểu mô trụ đơn có vi nhung mao",
+            "Nhung mao",
+            "Lòng hỗng tràng"
+        ]
+    },
+    {
+        "q": "Cấu trúc gì ? [Đường màu xanh]",
+        "s": "dd_2",
+        "a": "Lòng dạ dày",
+        "n": [
+            "Vi nhung mao",
+            "Tế bào đài",
+            "Tế bào trụ có vi nhung mao",
+            "Biểu mô trụ đơn có vi nhung mao",
+            "Nhung mao",
+            "Lòng hỗng tràng",
+            "Biểu mô trụ đơn tiết nhày"
+        ]
+    },
+    {
+        "q": "Tiêu bản gì ?",
+        "s": "t_1",
+        "a": "Thận",
+        "n": [
+            "Thực quản",
+            "Dạ dày",
+            "Hỗng tràng",
+            "Khí quản",
+            "Da",
+            "Tá tràng"
+        ]
+    },
+    {
+        "q": "Nhuộm gì ?",
+        "s": "t_1",
+        "a": "Nhuộm H-SG",
+        "n": [
+            "Nhuộm xanh",
+            "Nhuộm tím",
+            "Nhuộm đỏ",
+            "Nhuộm H&E"
+        ]
+    },
+    {
+        "q": "Tiêu bản gì ?",
+        "s": "t_2",
+        "a": "Thận",
+        "n": [
+            "Thực quản",
+            "Dạ dày",
+            "Hỗng tràng",
+            "Khí quản",
+            "Da",
+            "Tá tràng"
+        ]
+    },
+    {
+        "q": "Nhuộm gì ?",
+        "s": "t_2",
+        "a": "Nhuộm H&E",
+        "n": [
+            "Nhuộm xanh",
+            "Nhuộm tím",
+            "Nhuộm đỏ",
+            "Nhuộm H-SG"
+        ]
+    },
+    {
+        "q": "Cấu trúc gì ? [Kim]",
+        "s": "t_3",
+        "a": "Tiểu cầu thận",
+        "n": [
+            "Ống lượn gần",
+            "Ống góp",
+            "Ống lượn xa",
+            "Tiểu động mạch",
+            "Quai Henlé",
+            "Chùm mao mạch Malpighi",
+            "Vết đặt"
+        ]
+    },
+    {
+        "q": "Biểu mô gì ? [Khung xanh]",
+        "s": "t_3",
+        "a": "Vuông đơn",
+        "n": [
+            "Lát đơn",
+            "Lát tầng",
+            "Trụ tầng",
+            "Trụ đơn",
+            "Vuông tầng"
+        ]
+    },
+    {
+        "q": "Biểu mô gì ? [Khung đen]",
+        "s": "t_3",
+        "a": "Lát đơn",
+        "n": [
+            "Vuông đơn",
+            "Lát tầng",
+            "Trụ tầng",
+            "Trụ đơn",
+            "Vuông tầng"
+        ]
+    },
+    {
+        "q": "Biểu mô gì ? [Khung xanh]",
+        "s": "t_4",
+        "a": "Trụ đơn",
+        "n": [
+            "Vuông đơn",
+            "Lát tầng",
+            "Trụ tầng",
+            "Lát đơn",
+            "Vuông tầng"
+        ]
+    },
+    {
+        "q": "Biểu mô gì ? [Khung đỏ]",
+        "s": "t_4",
+        "a": "Vuông đơn",
+        "n": [
+            "Trụ đơn",
+            "Lát tầng",
+            "Trụ tầng",
+            "Lát đơn",
+            "Vuông tầng"
+        ]
     }
 ]
