@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+
+<head>
+    <meta charset="UTF-8">
+    <script language="javascript" src="js/jquery.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <h1 style="text-align: center;">Nếu đây là lần đầu vào bạn sẽ gặp thông báo này !!!</h1>
+    <h1 style="text-align: center;">Câu hỏi chỉ mang tính chất tham khảo và đang được cập nhật liên tục !!!</h1>
+    <h1 style="text-align: center;">Cổng đăng nhập sẽ đóng vào lúc 20h, mn lưu ý: KHÔNG XÓA LỊCH SỬ DUYỆT WEB, KHÔNG MỞ
+        TAB ẨN DANH, NÊN ĐĂNG NHẬP BẰNG CHROME HOẶC SAFARI</h1>
+    <button class="btn" id="id"><span>Đăng nhập</span></button>
+    <script lang="javascript">
+
+        window.onload = function () {
+            $("#id").click(function () {
+                var d = new Date();
+                d.setTime(d.getTime() + (5 * 24 * 60 * 60 * 1000));
+                var expires = "expires=" + d.toUTCString();
+                document.cookie = "login" + "=" + "on" + "; " + expires;
+                window.location.replace("index.html");
+            })
+        }
+    </script>
+</body>

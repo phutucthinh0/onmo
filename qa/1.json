@@ -1,0 +1,238 @@
+[
+    {
+        "q": "Biểu mô gì ? (Thực quản)",
+        "s": "tq_1",
+        "a": "Lát tầng không sừng hóa",
+        "n": [
+            "Lát tầng sừng hóa",
+            "Vuông tầng",
+            "Trụ tầng giả tầng có lông chuyển",
+            "Lát đơn"
+        ]
+    },
+    {
+        "q": "Biểu mô gì ? (Thực quản)",
+        "s": "tq_2",
+        "a": "Vuông tầng",
+        "n": [
+            "Lát tầng sừng hóa",
+            "Lát tầng không sừng hóa",
+            "Trụ tầng giả tầng có lông chuyển",
+            "Lát đơn"
+        ]
+    },
+    {
+        "q": "Thứ tự các lớp (xanh dương - tím - đen) ? (Thực quản)",
+        "s": "tq_3",
+        "a": "Bề mặt - Trung gian - Sinh sản",
+        "n": [
+            "Bề mặt - Sinh sản - Trung gian",
+            "Bề mặt - Gai - Sinh sản",
+            "Sừng - Gai - Sinh sản",
+            "Bề mặt - Bóng - Hạt"
+        ]
+    },
+    {
+        "q": "Tiêu bản gì ?",
+        "s": "da_1",
+        "a": "Da",
+        "n": [
+            "Thực quản",
+            "Khí quản",
+            "Dạ dày",
+            "Hỗng tràng",
+            "Thận"
+        ]
+    },
+    {
+        "q": "Biểu mô gì (khung đen) ?",
+        "s": "da_2",
+        "a": "Lát tầng sừng hóa",
+        "n": [
+            "Vuông tầng",
+            "Lát tầng không sừng hóa",
+            "Trụ tầng giả tầng có lông chuyển",
+            "Trự đơn tiết nhày",
+            "Lát đơn"
+        ]
+    },
+    {
+        "q": "Cơ quan gì (khung đỏ) ?",
+        "s": "da_2",
+        "a": "Tuyến mồ hôi",
+        "n": [
+            "Mạch máu"
+        ]
+    },
+    {
+        "q": "Cấu trúc gì ? (Da)",
+        "s": "da_3",
+        "a": "Mạch máu",
+        "n": [
+            "Tuyến mồ hôi",
+            "Ống bài xuất",
+            "Tế bào đài",
+            "Cầu thận"
+        ]
+    },
+    {
+        "q": "Biểu mô gì (da) ?",
+        "s": "da_4",
+        "a": "Vuông tầng",
+        "n": [
+            "Lát tầng sừng hóa",
+            "Lát tầng không sừng hóa",
+            "Trụ tầng giả tầng có lông chuyển",
+            "Trự đơn tiết nhày",
+            "Lát đơn"
+        ]
+    },
+    {
+        "q": "Biểu mô gì (da) ?",
+        "s": "da_5",
+        "a": "Lát đơn",
+        "n": [
+            "Lát tầng sừng hóa",
+            "Lát tầng không sừng hóa",
+            "Trụ tầng giả tầng có lông chuyển",
+            "Trự đơn tiết nhày",
+            "Vuông tầng"
+        ]
+    },
+    {
+        "q": "Lớp gì [Đường màu đen] ?",
+        "s": "da_6",
+        "a": "Lớp sừng",
+        "n": [
+            "Lớp bóng",
+            "Lớp hạt",
+            "Lớp gai",
+            "Lớp sinh sản",
+            "Lớp bề mặt"
+        ]
+    },
+    {
+        "q": "Lớp gì [Đường màu đỏ] ?",
+        "s": "da_6",
+        "a": "Lớp bóng",
+        "n": [
+            "Lớp sừng",
+            "Lớp hạt",
+            "Lớp gai",
+            "Lớp sinh sản",
+            "Lớp bề mặt"
+        ]
+    },
+    {
+        "q": "Lớp gì [Đường màu xanh lá] ?",
+        "s": "da_6",
+        "a": "Lớp hạt",
+        "n": [
+            "Lớp sừng",
+            "Lớp bóng",
+            "Lớp gai",
+            "Lớp sinh sản",
+            "Lớp bề mặt"
+        ]
+    },
+    {
+        "q": "Lớp gì [Đường màu xanh dương] ?",
+        "s": "da_6",
+        "a": "Lớp gai",
+        "n": [
+            "Lớp sừng",
+            "Lớp hạt",
+            "Lớp bóng",
+            "Lớp sinh sản",
+            "Lớp bề mặt"
+        ]
+    },
+    {
+        "q": "Lớp gì [Đường màu xanh vàng] ?",
+        "s": "da_6",
+        "a": "Lớp sinh sản",
+        "n": [
+            "Lớp sừng",
+            "Lớp gai",
+            "Lớp hạt",
+            "Lớp bóng",
+            "Lớp bề mặt"
+        ]
+    },
+    {
+        "q": "Tiêu bản gì ?",
+        "s": "ht_1",
+        "a": "Hỗng tràng",
+        "n": [
+            "Thực quản",
+            "Khí quản",
+            "Dạ dày",
+            "Da",
+            "Tá tràng",
+            "Thận"
+        ]
+    },
+    {
+        "q": "Cấu trúc gì ?",
+        "s": "ht_2",
+        "a": "Nhung mao",
+        "n": [
+            "Vi nhung mao",
+            "Lòng hỗng tràng",
+            "Vùng cổ tuyến của tuyến đáy vị",
+            "Vùng đáy của tuyến đáy vị"
+        ]
+    },
+    {
+        "q": "Biểu mô gì ? [Khung xanh]",
+        "s": "ht_3",
+        "a": "Biểu mô trụ đơn có vi nhung mao",
+        "n": [
+            "Vi nhung mao",
+            "Nhung mao",
+            "Lòng hỗng tràng",
+            "Biểu mô trụ đơn tiết nhày",
+            "Tế bào trụ có vi nhung mao",
+            "Tế bào đài"
+        ]
+    },
+    {
+        "q": "Tế bào gì ? [Khung xanh]",
+        "s": "ht_3",
+        "a": "Tế bào trụ có vi nhung mao",
+        "n": [
+            "Vi nhung mao",
+            "Biểu mô trụ đơn có vi nhung mao",
+            "Nhung mao",
+            "Lòng hỗng tràng",
+            "Biểu mô trụ đơn tiết nhày",
+            "Tế bào đài"
+        ]
+    },
+    {
+        "q": "Tế bào gì ? [Khung đỏ]",
+        "s": "ht_3",
+        "a": "Tế bào đài",
+        "n": [
+            "Vi nhung mao",
+            "Tế bào trụ có vi nhung mao",
+            "Biểu mô trụ đơn có vi nhung mao",
+            "Nhung mao",
+            "Lòng hỗng tràng",
+            "Biểu mô trụ đơn tiết nhày"
+        ]
+    },
+    {
+        "q": "Cấu trúc gì ? [Khung vàng]",
+        "s": "ht_3",
+        "a": "Vi nhung mao",
+        "n": [
+            "Tế bào đài",
+            "Tế bào trụ có vi nhung mao",
+            "Biểu mô trụ đơn có vi nhung mao",
+            "Nhung mao",
+            "Lòng hỗng tràng",
+            "Biểu mô trụ đơn tiết nhày"
+        ]
+    }
+]

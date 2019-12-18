@@ -1,0 +1,253 @@
+[
+    {
+        "q": "Trên bề mặt thành ngực, đỉnh tim nằm ở:",
+        "a": "Ngang mức khoang gian sườn V bên Trái",
+        "n": [
+            "Ngang mức góc ức",
+            "Ngang mức khoang gian sườn IV bên Trái",
+            "Ngang mức khoang gian sườn IV bên Phải",
+            "Ngang mức mỏm mũi kiếm xương ức"
+        ]
+    },
+    {
+        "q": "Phần lớn nhất của mặt ức sườn tim nhìn thấy trên phim chụp ngực trước - sau tạo nên bởi: ",
+        "a": "Tâm thất Trái",
+        "n": [
+            "Tâm nhĩ Trái",
+            "Tâm nhĩ Phải",
+            "Tâm thất Phải",
+            "Đáy tim"
+        ]
+    },
+    {
+        "q": "Nhóm tình trạng nào sau đây mô tả các vị trí lần lượt của van động mạch phổi, van động mạch chủ và 2 van nhĩ thất trong lúc tâm thất bóp",
+        "a": "mở mở đóng",
+        "n": [
+            "đóng đóng mở",
+            "đóng mở đóng",
+            "mở đóng mở",
+            "mỡ đóng đóng"
+        ]
+    },
+    {
+        "q": "Rãnh tận cùng",
+        "a": "nối bờ Phải của tĩnh mạch chủ trên và dưới",
+        "n": [
+            "Ở đáy tim là ranh giới của tâm nhĩ Phải và Trái",
+            "ở phần bên Trái vách liên nhĩ",
+            "tương ứng với bó nhĩ thất",
+            "Tất cả đều sai"
+        ]
+    },
+    {
+        "q": "Phần màng của vách nhĩ thất ngăn cách: ",
+        "a": "Tâm nhĩ Phải và Tâm thất Trái",
+        "n": [
+            "Tâm nhĩ Trái và Tâm nhĩ Phải",
+            "Tâm thất Trái và Tâm thất Phải",
+            "Tâm nhĩ Phải và Tâm thất Phải",
+            "Tâm nhĩ Trái và Tâm thất Phải"
+        ]
+    },
+    {
+        "q": "Bác sĩ cần đặt ống nghe ở đâu để nghe được tiếng van 2 lá:",
+        "a": "Ở khoang gian sườn V bên Trái trên đường giữa đòn",
+        "n": [
+            "Trên đầu trong khoang gian sườn thứ hai bên Trái",
+            "Trên đầu trong khoang gian sườn thứ hai bên Phải",
+            "Ở khoang gian sườn IV bên Trái trên đường giữa đòn",
+            "Điểm canh ức Phải khoang gian sườnn V"
+        ]
+    },
+    {
+        "q": "Mô tả nào trong các mô tả sau về các tĩnh mạch tim là đúng ?",
+        "a": "Tĩnh mạch tim trước đổ trực tiếp vào tâm nhĩ Phải",
+        "n": [
+            "Tĩnh mạch tim lớn đi kèm động mạch gian thất sau",
+            "Tĩnh mạch tim giữa đi kèm động mạch gian thất trước",
+            "Tĩnh mạch tim nhỏ đi kèm theo nhánh mũ của động mạch vành Trái",
+            "Các tĩnh mạch tim chếch của tâm nhĩ Trái đổ vào tâm nhĩ Trái"
+        ]
+    },
+    {
+        "q": "Một máy phát nhịp tim nhân tạo được cấy cho bệnh nhân 55 tuổi. Mô nào trong các mô sau không hoạt động tốt",
+        "a": "Nút xoang nhĩ",
+        "n": [
+            "Bó nhĩ thất",
+            "Nút nhĩ thất",
+            "Mạng lưới sợi dưới nội tâm mạc",
+            "Các trụ của bó nhĩ thất"
+        ]
+    },
+    {
+        "q": "Chọn câu SAI",
+        "a": "thực quản nằm ngay sau tâm nhĩ Trái",
+        "n": [
+            "tim gồm có 3 mặt: ức-sườn, hoành, phổi",
+            "tim thuộc trung thất giữa",
+            "đáy tim nằm trên cơ hoành",
+            "tim co bóp dưới sự chi phối của hệ tthống dẫn truyền của tim (nút xoang, nút nhĩ thất, bó nhĩ thất) và dưới sự điều hòa của hệ thần kinh tự chủ"
+        ]
+    },
+    {
+        "q": "Ổ ngoại tâm mạc (khoang ngoại tâm mạc) là một khoang giữa:",
+        "a": "hai lá ngoại tâm mạc thanh mạc",
+        "n": [
+            "ngoại tâm mạc sợ và ngoại tâm mạc thanh mạc",
+            "ngoại tâm mạc thanh mạc và cơ tim",
+            "bao động mạch và bao tĩnh mạch",
+            "tất cả sai"
+        ]
+    },
+    {
+        "q": "Bó nhỉ thất: ",
+        "a": "[1][3]",
+        "n": [
+            "[1]thuộc hệ thống dẫn truyền tự động của tim",
+            "[2]đi từ nút xoang nhĩ đến nút nhĩ thất",
+            "[3]ở bên phải vách gian nhĩ",
+            "[1][2][3]"
+        ]
+    },
+    {
+        "q": "Van ba lá có tác dụng:",
+        "a": "ngăn dòng máu chảy ngược từ thất Phải lên nhĩ Phải trong thì tâm thu",
+        "n": [
+            "ngăn dòng máu chảy ngược từ thất Trái lên nhĩ Trái trong thì tâm thu",
+            "ngăn dòng máu chảy ngược từ thất Trái lên nhĩ Trái trong thì tâm trương",
+            "ngăn dòng máu chảy ngược từ thất Phải lên nhĩ Phải trong thì tâm trương",
+            "Tất cả sai"
+        ]
+    },
+    {
+        "q": "Ở tim lỗ nào sau đây không có van ?",
+        "a": "lỗ xoang tĩnh mạch vành",
+        "n": [
+            "lỗ thân động mạch phổi",
+            "lỗ thân động mạch chủ",
+            "lỗ tĩnh mạch chủ trên",
+            "lỗ tĩnh mạch chủ dưới"
+        ]
+    },
+    {
+        "q": "Trong tứ chứng FALLOT KHÔNG có tổn thương nào sau đây ?",
+        "a": "thông liên nhĩ",
+        "n": [
+            "động mạch chủ cưỡi ngựa",
+            "dày thất Phải",
+            "thông liên thất",
+            "hẹp động mạch phổi"
+        ]
+    },
+    {
+        "q": "Tràn dịch màng ngoài tim nằm ở: ",
+        "a": "giữa hai lá ngoại tâm mạc thanh mạc",
+        "n": [
+            "giữa ngoại tâm mạc sợi và ngoại tâm mạc thanh mạc",
+            "giữa ngoại tâm mạc thanh mạc và cơ tim",
+            "giữa cơ tim và nội tâm mạc",
+            "giữa ngoại tâm mạc sợi và mạc nội ngực"
+        ]
+    },
+    {
+        "q": "Tất cả các tình trạng sau khiến cho tâm thất Phải làm việc nhiều dẫn tới phì đại TRỪ: ",
+        "a": "Hẹp động mạch chủ",
+        "n": [
+            "Hẹp động mạch phổi",
+            "Lỗ nhĩ - thất Trái nhỏ bất thường",
+            "Các van động mạch phổi đóng không kín",
+            "Một lỗ nhĩ - thất Phải rộng khác thường (hở)"
+        ]
+    },
+    {
+        "q": "Chứng huyết khối (sự hình thành khối máu đông) trong xoang vành có thể gây dãn tất cả tĩnh mạch sau TRỪ:",
+        "a": "tĩnh mạch tim trước",
+        "n": [
+            "tĩnh mạch tim lớn",
+            "tĩnh mạch tim giữa",
+            "tĩnh mạch tim nhỏ",
+            "tĩnh mạch tim chéch của tâm nhĩ Trái"
+        ]
+    },
+    {
+        "q": "Tất cả các mô tả sau đây về tim và các cấu trúc có liên quan với nó là đúng, TRỪ:",
+        "a": "đầu trên của tâm thất Phải được gọi là nón động mạch",
+        "n": [
+            "nó nằm trong trung thất giữa",
+            "rãnh vành nằm giữa các tâm nhĩ và các tâm thất",
+            "tuần hoàn máu trong các động mạch vành đạt tối đa trong lúc tâm giãn và tối thiểu trong lúc tâm thất bóp",
+            "các động mạch vành là những nhánh của cung động mạch chủ"
+        ]
+    },
+    {
+        "q": "Thông tin nào sau đây SAI về vách gian thất",
+        "a": "chưa làm được :(((",
+        "n": [
+            "ngăn cách giữa 2 tâm thất",
+            "trong phôi thai gồm 2 vách độc lập",
+            "có phần màng",
+            "vách canh lồi sang Phải",
+            "có thể có dị tật bẩm sinh thông liên thất ở phần màng"
+        ]
+    },
+    {
+        "q": "Xoang chếch ngoại tâm mạc nằm ở",
+        "a": "giữa các tĩnh mạch phổi Phải và Trái",
+        "n": [
+            "giữa động mạch phổi và động mạch chủ",
+            "giữa tĩnh mạch phổi và động mạch phổi",
+            "giữa tĩnh mạch chủ trên và tĩnh mạch chủ dưới",
+            "giữa tĩnh mạch phổi và tĩnh mạch chủ trên "
+        ]
+    },
+    {
+        "q": "Chọn câu ĐÚNG:",
+        "a": "[1][2] đúng",
+        "n": [
+            "[1] Người bị thông liên nhĩ có hố bầu dục không đóng kín",
+            "[2] Phần cơ vách gian thất khiếm khuyết gây tật thông liên thất",
+            "[3] Có 4 lỗ tĩnh mạch phổi đổ vào tiểu nhĩ Trái",
+            "[1][2][3] sai"
+        ]
+    },
+    {
+        "q": "Hố bầu dục:",
+        "a": "là một lỗ thông từ giai đoạn phôi thai thuộc thành trong tâm nhĩ Phải",
+        "n": [
+            "vừa thuộc tâm nhĩ Phải vừa thuộc tâm nhĩ Trái",
+            "có viền hố bầu dục giới hạn ở phía trước và trên của hố",
+            "có van của hố bầu dục là phần kéo dài của van tĩnh mạch chủ dưới",
+            "tất cả sai"
+        ]
+    },
+    {
+        "q": "Chọn câu SAI",
+        "a": "ống ngực lên trung thất qua lỗ tĩnh mạch chủ của cơ hoành",
+        "n": [
+            "ống ngực khó nhận biết khi bị tổn thương",
+            "hệ tĩnh mạch đơn nối tĩnh mạch chủ dưới với tĩnh mạch chủ trên",
+            "chuỗi hạch giao cảm ngực có 3 dây: tạng lớn, tạng bé và tạng dưới",
+            "tĩnh mạch đơn qua khe phía ngoài cơ hoành"
+        ]
+    },
+    {
+        "q": "Chọn câu ĐÚNG:",
+        "a": "tất cả đều đúng",
+        "n": [
+            "trung thất trên có chứa tuyến ức, động mạch dưới đòn Trái, thần kinh hoành",
+            "trung thất trước là khoang hẹp ở ngay trước màng tim và sau xương ức",
+            "trung thất giữa chứa tim và màng ngoài tim",
+            "trung thất sau có chuỗi hạch giao cảm ngực"
+        ]
+    },
+    {
+        "q": "Trong trung thất sau:",
+        "a": "Tất cả sai",
+        "n": [
+            "ống ngực ở sau động mạch chủ ngực đến T10 thì hướng sang Trái để đổ vào tĩnh mạch dưới đòn Trái",
+            "thần kinh lang thang Phải ở sau thực quản, thần kinh lang Trái ở trước thực quản",
+            "cung tĩnh mạch đơn bắc cầu trên cuống phổi Trái. Cung động mạch chủ bắc cầu trên cuống phổi Phải",
+            "Tất cả đúng"
+        ]
+    }
+]
