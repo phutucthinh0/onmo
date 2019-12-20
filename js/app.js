@@ -5,7 +5,7 @@ let count = 0;
 let list_qa = []
 window.onload = function () {
     e_qa = document.getElementById("question")
-    if (getCookie("accpet") == "") {
+    if (getCookie("accept") == "") {
         $("button").remove();
         e_qa.innerText = "Xin lỗi bạn không phải là thành viên của tổ mình \u26A0 \nNếu đây là lỗi hãy báo cáo với admin\nCảm ơn"
         window.location.replace("login.html");
