@@ -40,7 +40,7 @@ function load(n) {
                 count_qa++
             });
             list_qa = shuffle(list_qa)
-            displayqa()
+            displayqa(1)
         }
     );
 }
@@ -98,6 +98,60 @@ function displayqa() {
     });
 }
 
+function displayqa(a) {
+    e_qa.innerText = json_qa[list_qa[count]].q + "  (" + count + "/" + (count_qa - 1) + ")"
+    if (json_qa[list_qa[count]].s != null){
+        dislayimg(json_qa[list_qa[count]].s)
+    }
+    var span_a = document.createElement("span")
+    span_a.innerText = json_qa[list_qa[count]].a
+    var answer = document.createElement("button")
+    answer.classList.add("btn")
+    answer.appendChild(span_a)
+    answer.addEventListener("click", function () {
+        $("button").remove()
+        $("img").remove()
+        count++
+        if (count <= (count_qa - 1)) {
+            displayqa(1)
+        } else {
+            alert("Đã xong !")
+            window.location.replace("index.html");
+        }
+    });
+    var n = json_qa[list_qa[count]].n
+    var n_c = 0;
+    var n_a = [];
+    n.forEach(element => {
+        n_a[n_c] = n_c
+        n_c++
+    });
+    n_a = shuffle(n_a)
+    var random = Math.floor(Math.random() * (n_c + 1));
+    // console.log(n)
+    // console.log(n_c)
+    // console.log(n_a)
+    var dem = 0
+    n_a.forEach(element => {
+        if (dem == random) {
+            document.body.appendChild(answer)
+        }
+        var span = document.createElement("span")
+        span.innerText = n[element]
+        var button = document.createElement("button")
+        button.classList.add("btn")
+        button.appendChild(span)
+        button.addEventListener("click", function () {
+            button.classList.add("red")
+        });
+        document.body.appendChild(button);
+        dem++
+        if ((dem == random) && (dem == n_c)) {
+            document.body.appendChild(answer)
+        }
+    });
+}
+
 function shuffle(a) {
     var j, x, i;
     for (i = a.length - 1; i > 0; i--) {
@@ -123,7 +177,7 @@ function getCookie(cname) {
     return "";
 }
 function dislayimg(number) {
-    var img = $('<img class="image" style="margin: 0 auto; display: block;" width = "75%"">'); //Equivalent: $(document.createElement('img'))
+    var img = $('<img class="image" style="margin: 0 auto; display: block; height: 80%;overflow: hidden;position: relative;">'); //Equivalent: $(document.createElement('img'))
     img.attr('src', "img/"+number+".jpg");
     img.appendTo('body');
 }

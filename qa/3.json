@@ -1,332 +1,69 @@
 [
     {
-        "q": "Động mạch nào sau đây là nhánh của động mạch lách",
-        "a": "Động mạch tụy lưng",
+        "q": "Cấu trúc gì ?",
+        "s": "x_1",
+        "a": "Vùng chuyển tiếp",
         "n": [
-            "Động mạch tá tụy trên trước",
-            "Động mạch tá tụy trên sau",
-            "Động mạch tá tụy dưới trước",
-            "Động mạch tá tụy dưới sau"
+            "Màng trong xương",
+            "Màng ngoài xương",
+            "Vùng trung gian",
+            "Lớp sợi",
+            "Lớp tế bào"
         ]
     },
     {
-        "q": "Động mạch vị - tá tràng và động mạch mạc treo tràng trên thông nối với nhau:",
-        "a": "Các động mạch tá tụy",
+        "q": "Tiêu bản gì ?",
+        "s": "x_1",
+        "a": "Xương - sụn",
         "n": [
-            "Động mạch lưng tụy",
-            "Động mạch tụy lớn",
-            "Động mạch tụy dưới",
-            "Động mạch sau tá tràng"
+            "Dạ dày",
+            "Tủy sống",
+            "Thực quản",
+            "Tiểu não"
         ]
     },
     {
-        "q": "Động mạch nào sau đây KHÔNG cấp máu cho dạ dày",
-        "a": "Động mạch màng treo tràng trên",
+        "q": "Cấu trú gì ? [Khung đen] (Xương - Sụn 10x)",
+        "s": "x_2",
+        "a": "sụn nghỉ",
         "n": [
-            "Động mạch lách",
-            "Động mạch gan chung",
-            "Động mạch vị tá tràng",
-            "Động mạch thân tạng"
+            "sụn xếp hàng",
+            "sụn phì đại",
+            "sụn ngấm canxi",
+            "Bè xương"
         ]
     },
     {
-        "q": "Thông thường động mạch túi mật xuất phát từ",
-        "a": "Động mạch gan phải",
+        "q": "Cấu trú gì ? [Khung vàng] (Xương - Sụn 10x)",
+        "s": "x_2",
+        "a": "sụn xếp hàng",
         "n": [
-            "Động mạch gan trái",
-            "Động mạch gan riêng",
-            "Động mạch gan chung",
-            "Động mạch vị phải"
+            "sụn nghỉ",
+            "sụn phì đại",
+            "sụn ngấm canxi",
+            "Bè xương"
         ]
     },
     {
-        "q": "Động mạch nào sau đây cấp máu cho khối tá tụy",
-        "a": "[1][2] đúng",
+        "q": "Cấu trú gì ? [Khung đỏ] (Xương - Sụn 10x)",
+        "s": "x_2",
+        "a": "sụn phì đại",
         "n": [
-            "[1]Động mạch mạc treo tràng trên",
-            "[2]Động mạch vị tá tràng",
-            "[3]Động mạch lách",
-            "[1][2][3] đúng"
+            "sụn nghỉ",
+            "sụn xếp hàng",
+            "sụn ngấm canxi",
+            "Bè xương"
         ]
     },
     {
-        "q": "Sau khi sinh tĩnh mạch rốn trở thành: ",
-        "a": "dây chằng tròn gan",
+        "q": "Cấu trú gì ? [Khung xanh] (Xương - Sụn 10x)",
+        "s": "x_2",
+        "a": "sụn ngấm canxi",
         "n": [
-            "dây chằng động mạch",
-            "dây chằng tĩnh mạch",
-            "dây chằng liềm",
-            "dây chằng vành"
-        ]
-    },
-    {
-        "q": "Chọn câu SAI khi nói về tĩnh mạch cửa",
-        "a": "hợp bởi tĩnh mạch mạc treo tràng trên và tĩnh mạch mạc treo tràng dưới",
-        "n": [
-            "đưa về gan các chất dinh dưỡng cũng như các chất độc ở ống tiêu hóa",
-            "là một thành phần của cuống gan",
-            "ngành trái tĩnh mạch cửa thận nhận thêm tĩnh mạch rốn và ống tĩnh mạch đã tắc",
-            "có vòng nối với hệ thống tĩnh mạch chủ"
-        ]
-    },
-    {
-        "q": "Phần nào sau đây KHÔNG được cấp máu bởi động mạch mạc treo tràng trên ?",
-        "a": "Phần bên tá tràng",
-        "n": [
-            "Phần ngang tá tràng",
-            "Góc tá hỗng tràng",
-            "Đoạn cuối hồi tràng",
-            "Manh tràng"
-        ]
-    },
-    {
-        "q": "Ở đoạn trên và trước tá tràng, động mạch mạc treo tràng trên nằm ngay phía trước",
-        "a": "mỏm móc tụy",
-        "n": [
-            "eo tụy",
-            "phần lên D4 tá tràng",
-            "động mạch chủ bụng",
-            "tĩnh mạch chủ dưới"
-        ]
-    },
-    {
-        "q": "Động mạch nào sau đây KHÔNG phải là nhánh của động mạch hồi kết tràng",
-        "a": "Động mạch kết tràng Phải",
-        "n": [
-            "Động mạch ruột thừa",
-            "Động mạch hồi tràng",
-            "Động mạch lên",
-            "Động mạch manh tràng trước và sau"
-        ]
-    },
-    {
-        "q": "Động mạch mạc treo tràng trên nối động mạch thân tạng thông qua: ",
-        "a": "Động mạch tá tụy",
-        "n": [
-            "Động mạch kết tràng giữa",
-            "Động mạch kết tràng phải",
-            "Các nhánh động mạch hỗng tràng đầu tiên",
-            "Động mạch mạc treo tràng trên không nối động mạch thân tạng"
-        ]
-    },
-    {
-        "q": "Ở đoạn sau tụy, động mạch mạc treo tràng trên nằm trong tứ giác TM. TM nào sau đây KHÔNG là thành phần của tứ giác TM ",
-        "a": "Tĩnh mạch cửa",
-        "n": [
-            "Tĩnh mạch chủ dưới",
-            "Tĩnh mạch thận Trái",
-            "Tĩnh mạch lách",
-            "Tĩnh mạch mạc treo tràng dưới"
-        ]
-    },
-    {
-        "q": "Rễ treo ruột non: ",
-        "a": "Đi chéo từ bờ bên Trái đốt sống L2 đến khớp cùng chậu Phải",
-        "n": [
-            "Dài 25cm",
-            "Là nơi động mạch mạc treo tràng trên đi vào để đến ruột",
-            "Tất cả đều đúng",
-            "Tất cả đều sai"
-        ]
-    },
-    {
-        "q": "Động mạch mạc treo tràng trên KHÔNG cho nhánh đến:",
-        "a": "dạ dày - đoạn di động của tá tràng",
-        "n": [
-            "manh tràng - kết tràng",
-            "đoạn cố định tá tràng",
-            "góc kết tràng Phải",
-            "tụy"
-        ]
-    },
-    {
-        "q": "Rễ treo ruột non đi qua phía trước các thành phần sau ngoại TRỪ: ",
-        "a": "phần lên (D4) tá tràng",
-        "n": [
-            "động mạch chủ bụng",
-            "tĩnh mạch chủ dưới",
-            "ĐMTMSD (p/s: mình nghĩ là động mạch - tĩnh mạch sinh dục @@)",
-            "niệu quản Phải, cơ thắt lưng Phải"
-        ]
-    },
-    {
-        "q": "Động mạch mạc treo tràng dưới có đặc điểm:",
-        "a": "Đi trong mạc treo kết tràng xuống",
-        "n": [
-            "Xuất phát từ động mạch chủ bụng, ngay trên động mạch sinh dục",
-            "Cung cấp máu cho toàn bộ ruột già",
-            "Có 2 tĩnh mạch đi kèm",
-            "Cho nhánh tận là động mạch trực tràng dưới"
-        ]
-    },
-    {
-        "q": "Mạc treo ruột thừa treo ruột thừa vào:",
-        "a": "hồi tràng",
-        "n": [
-            "thành bụng sau",
-            "thành bụng trước",
-            "manh tràng",
-            "kết tràng lên"
-        ]
-    },
-    {
-        "q": "Động mạch mạc treo tràng dưới",
-        "a": "góp phần cung cấp máu cho kết tràng ngang",
-        "n": [
-            "Xuất phát từ động mạch chủ bụng ở ngang mức L1",
-            "đi trong mạc treo kết tràng xuống và chỉ cung cấp máu cho kết tràng xuống",
-            "cho nhánh tận động mạch mạc treo tràng dưới",
-            "không thông nối với động mạch mạc treo tràng trên"
-        ]
-    },
-    {
-        "q": "Trong phẫu thuật cắt bỏ tụy phẫu thuật viên cần sự kiểm soát cấp máu đế từ tất cả động mạch sau TRỪ:",
-        "a": "động mạch vị Trái",
-        "n": [
-            "động mạch lách",
-            "động mạch vị - tá tràng",
-            "động mạch mạc treo tràng trên",
-            "động mạch tụy lưng"
-        ]
-    },
-    {
-        "q": "Cấu trúc nào trong các cấu trúc sau bắt chéo trước tĩnh mạch chủ dưới ?",
-        "a": "phần ngang của tá tràng",
-        "n": [
-            "thân giao cảm Phải",
-            "động mạch thận Phải",
-            "tĩnh mạch thắt lưng III Phải",
-            "bể dưỡng chấp"
-        ]
-    },
-    {
-        "q": "Một bệnh nhân có tăng áp lực tĩnh mạch cửa. Thủ thuật ngoại khoa nào sau đây là phương pháp thực tế nhất để máu có thể rẽ tắt về tim mà không phải qua gan",
-        "a": "nối tĩnh mạch cửa với tĩnh mạch chủ trên",
-        "n": [
-            "nối tĩnh mạch mạc treo tràng trên với tĩnh mạch mạc treo tràng dưới ",
-            "nối tĩnh mạch lách với tĩnh mạch thận Trái",
-            "nối tĩnh mạch trực tràng dưới với tĩnh mạch mạc treo tràng trên",
-            "nối tĩnh mạch cửa với tĩnh mạch thận Trái"
-        ]
-    },
-    {
-        "q": "Mô tả nào sau đây ĐÚNG về tĩnh mạch cửa",
-        "a": "nó đi trước lỗ mạc nối, trong bờ tự do của mạc nối bé",
-        "n": [
-            "nó được tạo nên ở sau cổ tụy bởi sự hợp lại của tĩnh mạch lách và thận",
-            "nó đi lên ở trước ống mật và động mạch gan riêng",
-            "nó không nhận nhánh nào ở trên chỗ bắt đầu của nó",
-            "nó vận chuyển lượng máu bằng động mạch gan"
-        ]
-    },
-    {
-        "q": "Sự tiếp nối cửa - chủ tồn tại giữa tất cả các cặp tĩnh mạch sau TRỪ ?",
-        "a": "tĩnh mạch sau kết tràng và nhánh mở của tĩnh mạch thận",
-        "n": [
-            "các tĩnh mạch gan và tĩnh mạch chủ dưới",
-            "tĩnh mạch trực tràng trên và tĩnh mạch trực tràng giữa",
-            "tĩnh mạch vị trái và tịnh mạch thực quản của hệ tĩnh mạch đơn",
-            "tĩnh mạch cạnh rốn và tĩnh mạch thượng vị nông"
-        ]
-    },
-    {
-        "q": "Người ta thường kẹp cắt rốn ở cách gốc khoảng 10cm để",
-        "a": "tránh chảy máu tĩnh mạch rốn vì có thể tuột nút buộc nếu mỏm cắt ngắn",
-        "n": [
-            "tránh chảy máu động mạch rốn vì có thể tuột nút buộc nếu mỏm cắt ngắn",
-            "tránh kẹp vào ruột nếu chưa hoàn tất quá trình thoát vị rốn thời kì phôi thai",
-            "tránh kẹp ống rốn ruột",
-            "tránh kẹp vào gan nếu gan lớn"
-        ]
-    },
-    {
-        "q": "Động mạch vị Phải tách ra từ:",
-        "a": "Động mạch gan riêng",
-        "n": [
-            "Động mạch thân tạng",
-            "Động mạch gan chung",
-            "Động mạch lách",
-            "Động mạch vị - tá tràng"
-        ]
-    },
-    {
-        "q": "Tĩnh mạch chủ trên nhận máu trực tiếp từ:",
-        "a": "[1][2][4]",
-        "n": [
-            "[1]thân tĩnh mạch cánh tay đầu Phải",
-            "[2]thân tĩnh mạch cánh tay đầu Trái",
-            "[3]tĩnh mạch cảnh trong",
-            "[4]tĩnh mạch đơn"
-        ]
-    },
-    {
-        "q": "Chọn câu đúng nhất:",
-        "a": "[1][2][3]",
-        "n": [
-            "[1]Tĩnh mạch chủ dưới nhận máu của các phần cơ thể từ cơ hoành trở xuống",
-            "[2]Tĩnh mạch chủ dưới do 2 tĩnh mạch chậu chung hợp thành",
-            "[3]Tĩnh mạch chủ dưới đi cạnh bờ Phải động mạch chủ bụng",
-            "[1][2]"
-        ]
-    },
-    {
-        "q": "Đám rối tĩnh mạch dưới niêm mạc trực tràng dẫn máu về:",
-        "a": "[1]Tĩnh mạch chậu trong",
-        "n": [
-            "[2]Tĩnh mạch mạc treo tràng dưới",
-            "[3]Tĩnh mạch chủ dưới",
-            "[4]Tĩnh mạch mạc treo tràng trên",
-            "[1][2]"
-        ]
-    },
-    {
-        "q": "Động mạch hồi kết tràng không cung cấp máu cho: ",
-        "a": "túi thừa hồi tràng",
-        "n": [
-            "kết tràng lên",
-            "manh tràng",
-            "ruột thừa",
-            "đoạn cuối hồi tràng"
-        ]
-    },
-    {
-        "q": "Động mạch đến nuôi tụy nào dưới đây là nhánh của động mạch mạc treo tràng trên: ",
-        "a": "Động mạch tá tụy dưới",
-        "n": [
-            "Động mạch lưng tụy",
-            "Động mạch tụy lớn",
-            "Động mạch tụy dưới",
-            "Động mạch sau tá tràng"
-        ]
-    },
-    {
-        "q": "Động mạch vị tá tràng: ",
-        "a": "[1][2][3]",
-        "n": [
-            "[1]tách ra từ động mạch gan chung",
-            "[2]đi sau phần trên tá tràng, giữa đoạn di động và cố định",
-            "[3]tách ra các nhánh tá tụy trên sau và tá tụy trên trước",
-            "[1][3]"
-        ]
-    },
-    {
-        "q": "Khi đến dạ dày, động mạch vị Trái nằm trong: ",
-        "a": "dây chằng gan vị",
-        "n": [
-            "dây chằng vị - lách",
-            "dây chằng vành",
-            "dây chằng gan tá tràng",
-            "dây chằng liềm"
-        ]
-    },
-    {
-        "q": "Nhánh tận cùng của động mạch mạc treo tràng trên là: ",
-        "a": "Động mạch cùng giữa",
-        "n": [
-            "Động mạch xích ma",
-            "Động mạch trực tràng trên",
-            "Động mạch trực tràng giữa",
-            "Động mạch trực tràng dưới"
+            "sụn nghỉ",
+            "sụn phì đại",
+            "sụn xếp hàng",
+            "Bè xương"
         ]
     }
 ]
