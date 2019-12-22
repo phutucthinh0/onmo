@@ -177,7 +177,7 @@ function getCookie(cname) {
     return "";
 }
 function dislayimg(number) {
-    var img = $('<img class="image" style="margin: 0 auto; display: block; height: 80%;overflow: hidden;position: relative;">'); //Equivalent: $(document.createElement('img'))
+    var img = $('<img class="image" style="margin: 0 auto; display: block;"  width="75%">'); //Equivalent: $(document.createElement('img'))
     img.attr('src', "img/"+number+".jpg");
     img.appendTo('body');
 }
