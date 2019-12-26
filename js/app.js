@@ -127,7 +127,7 @@ function displayqa(a) {
         n_c++
     });
     n_a = shuffle(n_a)
-    var random = Math.floor(Math.random() * (n_c + 1));
+    var random = Math.floor(Math.random() * (n_c + 1))
     // console.log(n)
     // console.log(n_c)
     // console.log(n_a)
