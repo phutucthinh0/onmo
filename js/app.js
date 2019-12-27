@@ -30,6 +30,10 @@ window.onload = function () {
         load(5)
         $("button").remove();
     });
+    $("#6").click(function () {
+        load(6)
+        $("button").remove();
+    });
 }
 function load(n) {
     $.getJSON("qa/" + n + ".json",
@@ -46,7 +50,7 @@ function load(n) {
 }
 function displayqa() {
     e_qa.innerText = json_qa[count].q + "  (" + count + "/" + (count_qa - 1) + ")"
-    if (json_qa[count].s != null){
+    if (json_qa[count].s != null) {
         dislayimg(json_qa[count].s)
     }
     var span_a = document.createElement("span")
@@ -100,7 +104,7 @@ function displayqa() {
 
 function displayqa(a) {
     e_qa.innerText = json_qa[list_qa[count]].q + "  (" + count + "/" + (count_qa - 1) + ")"
-    if (json_qa[list_qa[count]].s != null){
+    if (json_qa[list_qa[count]].s != null) {
         dislayimg(json_qa[list_qa[count]].s)
     }
     var span_a = document.createElement("span")
@@ -178,6 +182,6 @@ function getCookie(cname) {
 }
 function dislayimg(number) {
     var img = $('<img class="image" style="margin: 0 auto; display: block;"  width="75%">'); //Equivalent: $(document.createElement('img'))
-    img.attr('src', "img/"+number+".jpg");
+    img.attr('src', "img/" + number + ".jpg");
     img.appendTo('body');
 }
