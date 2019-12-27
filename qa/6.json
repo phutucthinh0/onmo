@@ -1,0 +1,186 @@
+[
+    {
+        "q": "Lớp/chất gì [Đường màu đỏ] (tiểu não) ?",
+        "s": "tn_1",
+        "a": "Chất xám",
+        "n": [
+            "Chất trắng",
+            "Lớp Purkinje",
+            "Lớp phân tử",
+            "Lớp hạt"
+        ]
+    },
+    {
+        "q": "Lớp/chất gì [Đường màu vàng] (tiểu não) ?",
+        "s": "tn_1",
+        "a": "Chất trắng",
+        "n": [
+            "Chất xám",
+            "Lớp Purkinje",
+            "Lớp phân tử",
+            "Lớp hạt"
+        ]
+    },
+    {
+        "q": "Lớp/chất gì [Đường màu đỏ] (tiểu não) ?",
+        "s": "tn_2",
+        "a": "Chất xám",
+        "n": [
+            "Chất trắng",
+            "Lớp Purkinje",
+            "Lớp phân tử",
+            "Lớp hạt"
+        ]
+    },
+    {
+        "q": "Lớp/chất gì [Đường màu vàng] (tiểu não) ?",
+        "s": "tn_2",
+        "a": "Chất trắng",
+        "n": [
+            "Chất xám",
+            "Lớp Purkinje",
+            "Lớp phân tử",
+            "Lớp hạt"
+        ]
+    },
+    {
+        "q": "Lớp/chất gì [Đường màu vàng] (tiểu não) ?",
+        "s": "tn_3",
+        "a": "Lớp hạt",
+        "n": [
+            "Lớp gai",
+            "Lớp phân tử",
+            "Lớp Purkinje"
+        ]
+    },
+    {
+        "q": "Lớp/chất gì [Đường màu đỏ] (tiểu não) ?",
+        "s": "tn_3",
+        "a": "Lớp phân tử",
+        "n": [
+            "Lớp gai",
+            "Lớp hạt",
+            "Lớp Purkinje"
+        ]
+    },
+    {
+        "q": "Lớp/chất gì [Đường màu xanh lá] (tiểu não) ?",
+        "s": "tn_3",
+        "a": "Lớp Purkinje",
+        "n": [
+            "Lớp gai",
+            "Lớp hạt",
+            "Lớp phân tử"
+        ]
+    },
+    {
+        "q": "Lớp/chất gì [Đường màu vàng] (tiểu não) ?",
+        "s": "tn_4",
+        "a": "Lớp hạt",
+        "n": [
+            "Lớp gai",
+            "Lớp phân tử",
+            "Lớp Purkinje"
+        ]
+    },
+    {
+        "q": "Lớp/chất gì [Đường màu đỏ] (tiểu não) ?",
+        "s": "tn_4",
+        "a": "Lớp phân tử",
+        "n": [
+            "Lớp gai",
+            "Lớp hạt",
+            "Lớp Purkinje"
+        ]
+    },
+    {
+        "q": "Lớp/chất gì [Đường màu xanh lá] (tiểu não) ?",
+        "s": "tn_4",
+        "a": "Lớp Purkinje",
+        "n": [
+            "Lớp gai",
+            "Lớp hạt",
+            "Lớp phân tử"
+        ]
+    },
+    {
+        "q": "Tiêu bản gì ?",
+        "s": "ts_1",
+        "a": "Tủy sống",
+        "n": [
+            "Tiểu não",
+            "Dây thần kinh",
+            "Mạch máu"
+        ]
+    },
+    {
+        "q": "Lớp/chất gì [Đường màu đỏ] ?",
+        "s": "ts_1",
+        "a": "Chất trắng",
+        "n": [
+            "Chất xám",
+            "Lớp hạt",
+            "Lớp phân tử"
+        ]
+    },
+    {
+        "q": "Lớp/chất gì [Đường màu vàng] ?",
+        "s": "ts_1",
+        "a": "Chất xám",
+        "n": [
+            "Chất trắng",
+            "Lớp hạt",
+            "Lớp phân tử"
+        ]
+    },
+    {
+        "q": "Cấu trúc gì [Khung màu xanh lá] ?",
+        "s": "ts_1",
+        "a": "Ống nội tủy",
+        "n": [
+            "Nơron thần kinh",
+            "Thể Nissl",
+            "Tế bào Schwann"
+        ]
+    },
+    {
+        "q": "Lớp/chất gì [Đường màu đỏ] ?",
+        "s": "ts_2",
+        "a": "Chất trắng",
+        "n": [
+            "Chất xám",
+            "Lớp hạt",
+            "Lớp phân tử"
+        ]
+    },
+    {
+        "q": "Lớp/chất gì [Đường màu vàng] ?",
+        "s": "ts_2",
+        "a": "Chất xám",
+        "n": [
+            "Chất trắng",
+            "Lớp hạt",
+            "Lớp phân tử"
+        ]
+    },
+    {
+        "q": "Cấu trúc gì [Khung màu xanh lá] ?",
+        "s": "ts_2",
+        "a": "Ống nội tủy",
+        "n": [
+            "Nơron thần kinh",
+            "Thể Nissl",
+            "Tế bào Schwann"
+        ]
+    },
+    {
+        "q": "Cấu trúc gì [Khung màu đen] ?",
+        "s": "ts_3",
+        "a": "Nơron thần kinh",s
+        "n": [
+            "Ống nội tủy",
+            "Thể Nissl",
+            "Tế bào Schwann"
+        ]
+    }
+]

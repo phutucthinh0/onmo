@@ -129,102 +129,61 @@
         ]
     },
     {
-        "q": "",
-        "s": "",
-        "a": "",
+        "q": "Đoạn nào của ống tiêu hóa ?",
+        "s": "ht_4",
+        "a": "Hỗng tràng",
         "n": [
-            "",
-            "",
-            "",
-            ""
+            "Tá tràng",
+            "Dạ dày",
+            "Thực quản",
         ]
     },
     {
-        "q": "",
-        "s": "",
-        "a": "",
+        "q": "Cấu trúc gì ? [Đường màu vàng]",
+        "s": "ht_4",
+        "a": "Cơ trơn cắt dọc",
         "n": [
-            "",
-            "",
-            "",
-            ""
+            "Cơ vân cắt ngang",
+            "Cơ tim cắt dọc",
+            "Cơ tim cắt ngang",
+            "Cơ vân cắt dọc",
+            "Cơ trơn cắt ngang"
         ]
     },
     {
-        "q": "",
-        "s": "",
-        "a": "",
+        "q": "Cấu trúc gì ? [Đường màu đỏ]",
+        "s": "ht_4",
+        "a": "Cơ trơn cắt ngang",
         "n": [
-            "",
-            "",
-            "",
-            ""
+            "Cơ trơn cắt dọc",
+            "Cơ vân cắt ngang",
+            "Cơ tim cắt dọc",
+            "Cơ tim cắt ngang",
+            "Cơ vân cắt dọc"
         ]
     },
     {
-        "q": "",
-        "s": "",
-        "a": "",
+        "q": "Cấu trúc gì ?",
+        "s": "ht_5",
+        "a": "Cơ trơn cắt dọc",
         "n": [
-            "",
-            "",
-            "",
-            ""
+            "Cơ vân cắt ngang",
+            "Cơ tim cắt dọc",
+            "Cơ tim cắt ngang",
+            "Cơ vân cắt dọc",
+            "Cơ trơn cắt ngang"
         ]
     },
     {
-        "q": "",
-        "s": "",
-        "a": "",
+        "q": "Cấu trúc gì ?",
+        "s": "ht_6",
+        "a": "Cơ trơn cắt ngang",
         "n": [
-            "",
-            "",
-            "",
-            ""
-        ]
-    },
-    {
-        "q": "",
-        "s": "",
-        "a": "",
-        "n": [
-            "",
-            "",
-            "",
-            ""
-        ]
-    },
-    {
-        "q": "",
-        "s": "",
-        "a": "",
-        "n": [
-            "",
-            "",
-            "",
-            ""
-        ]
-    },
-    {
-        "q": "",
-        "s": "",
-        "a": "",
-        "n": [
-            "",
-            "",
-            "",
-            ""
-        ]
-    },
-    {
-        "q": "",
-        "s": "",
-        "a": "",
-        "n": [
-            "",
-            "",
-            "",
-            ""
+            "Cơ trơn cắt dọc",
+            "Cơ vân cắt ngang",
+            "Cơ tim cắt dọc",
+            "Cơ tim cắt ngang",
+            "Cơ vân cắt dọc"
         ]
     }
 ]
