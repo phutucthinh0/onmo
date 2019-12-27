@@ -227,17 +227,6 @@
         ]
     },
     {
-        "q": "Cấu trúc gì [2] ?",
-        "s": "dtk_4",
-        "a": "Tế bào Schwann",
-        "n": [
-            "Bao ngoại thần kinh",
-            "Bao nội thần kinh",
-            "Tế bào sợi",
-            "Sợi trục thần kinh"
-        ]
-    },
-    {
         "q": "Cấu trúc gì [1] ?",
         "s": "dtk_4",
         "a": "Sợi trục thần kinh",
