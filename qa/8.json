@@ -1,0 +1,129 @@
+[
+    {
+        "q": "Tầng nào [Đường màu đỏ] ?",
+        "s": "tq_4",
+        "a": "Tầng niêm mạc",
+        "n": [
+            "Tầng dưới niêm mạc",
+            "Tầng cơ",
+            "Tầng vỏ ngoài / Thanh mạc"
+        ]
+    },
+    {
+        "q": "Tầng nào [Đường màu vàng] ?",
+        "s": "tq_4",
+        "a": "Tầng dưới niêm mạc",
+        "n": [
+            "Tầng niêm mạc",
+            "Tầng cơ",
+            "Tầng vỏ ngoài / Thanh mạc"
+        ]
+    },
+    {
+        "q": "Tầng nào [Đường màu xanh dương] ?",
+        "s": "tq_4",
+        "a": "Tầng cơ",
+        "n": [
+            "Tầng niêm mạc",
+            "Tầng dưới niêm mạc",
+            "Tầng vỏ ngoài / Thanh mạc"
+        ]
+    },
+    {
+        "q": "Lớp nào [Đường màu đen] ?",
+        "s": "tq_5",
+        "a": "Lớp đệm",
+        "n": [
+            "Cơ niêm liên tục",
+            "Cơ niêm không liên tục",
+            "Tuyến thực quản"
+        ]
+    },
+    {
+        "q": "Lớp nào [Đường màu đỏ] ?",
+        "s": "tq_5",
+        "a": "Cơ niêm không liên tục",
+        "n": [
+            "Cơ niêm liên tục",
+            "Lớp đệm",
+            "Tuyến thực quản"
+        ]
+    },
+    {
+        "q": "Lớp nào [Đường màu vàng] ?",
+        "s": "tq_5",
+        "a": "Tuyến thực quản",
+        "n": [
+            "Cơ niêm liên tục",
+            "Cơ niêm không liên tục",
+            "Lớp đệm",
+            "Tuyến ức"
+        ]
+    },
+    {
+        "q": "Đám rối auerback nằm ở tầng cơ ok !!!",
+        "s": "tq_5",
+        "a": "ok",
+        "n": [
+            "no"
+        ]
+    },
+    {
+        "q": "Cấu trúc gì ?",
+        "s": "tq_6",
+        "a": "tuyến nhầy",
+        "n": [
+            "Cơ niêm liên tục",
+            "Tuyến thực quản",
+            "Cơ niêm không liên tục",
+            "Lớp đệm",
+            "Tuyến ức"
+        ]
+    },
+    {
+        "q": "Cấu trúc gì ? [xanh]",
+        "s": "tq_7",
+        "a": "Đám rối auerback",
+        "n": [
+            "Mạch máu",
+            "Cơ niêm không liên tục",
+            "Lớp đệm"
+        ]
+    },
+    {
+        "q": "Tầng nào ? [đỏ]",
+        "s": "dd_4",
+        "a": "Tầng niêm mạc",
+        "n": [
+            "Tầng dưới niêm",
+            "Cơ niêm không liên tục",
+            "Cơ niêm liên tục",
+            "Tầng cơ",
+            "Thanh mạc"
+        ]
+    },
+    {
+        "q": "Tầng nào ? [vàng]",
+        "s": "dd_4",
+        "a": "Tầng dưới niêm",
+        "n": [
+            "Tầng niêm mạc",
+            "Cơ niêm không liên tục",
+            "Cơ niêm liên tục",
+            "Tầng cơ",
+            "Thanh mạc"
+        ]
+    },
+    {
+        "q": "Tầng nào ? [xanh dương]",
+        "s": "dd_4",
+        "a": "Tầng cơ",
+        "n": [
+            "Tầng niêm mạc",
+            "Tầng dưới niêm",
+            "Cơ niêm không liên tục",
+            "Cơ niêm liên tục",
+            "Thanh mạc"
+        ]
+    }
+]
