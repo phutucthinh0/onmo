@@ -259,15 +259,16 @@
     {
         "q": "Cấu trúc gì [2] (Mạch máu 40x])?",
         "s": "dm_1",
-        "a":  "Thành mạch",
+        "a": "Thành mạch",
         "n": [
-           "Lòng mạch máu "
+            "Lòng mạch máu "
         ]
     },
     {
         "q": "3 lớp của động mạch tự coi trong vid của thầy Khôi",
-        "a":  "ok",
+        "a": "ok",
         "n": [
+            "no"
         ]
     }
 ]
