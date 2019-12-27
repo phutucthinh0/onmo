@@ -182,5 +182,92 @@
             "Thể Nissl",
             "Tế bào Schwann"
         ]
+    },
+    {
+        "q": "Tiêu bản gì ?",
+        "s": "dtk_1",
+        "a": "Dây thần kinh",
+        "n": [
+            "Tiểu não",
+            "Tủy sống",
+            "Mạch máu"
+        ]
+    },
+    {
+        "q": "Cấu trúc gì [mũi tên đỏ] ?",
+        "s": "dtk_2",
+        "a": "Bao ngoại thần kinh",
+        "n": [
+            "Bao ngoại nội kinh",
+            "Tế bào sợi",
+            "Tế bào Schwann",
+            "Sợi trục thần kinh"
+        ]
+    },
+    {
+        "q": "Cấu trúc gì [mũi tên vàng] ?",
+        "s": "dtk_2",
+        "a": "Bao nội thần kinh",
+        "n": [
+            "Bao ngoại thần kinh",
+            "Tế bào sợi",
+            "Tế bào Schwann",
+            "Sợi trục thần kinh"
+        ]
+    },
+    {
+        "q": "Cấu trúc gì [mũi tên đỏ] ?",
+        "s": "dtk_3",
+        "a": "Tế bào Schwann",
+        "n": [
+            "Bao ngoại thần kinh",
+            "Bao nội thần kinh",
+            "Tế bào sợi",
+            "Sợi trục thần kinh"
+        ]
+    },
+    {
+        "q": "Cấu trúc gì [2] ?",
+        "s": "dtk_4",
+        "a": "Tế bào Schwann",
+        "n": [
+            "Bao ngoại thần kinh",
+            "Bao nội thần kinh",
+            "Tế bào sợi",
+            "Sợi trục thần kinh"
+        ]
+    },
+    {
+        "q": "Cấu trúc gì [1] ?",
+        "s": "dtk_4",
+        "a": "Sợi trục thần kinh",
+        "n": [
+            "Bao ngoại thần kinh",
+            "Tế bào Schwann",
+            "Bao nội thần kinh",
+            "Tế bào sợi"
+        ]
+    },
+    {
+        "q": "Cấu trúc gì [1] (Mạch máu 40x])?",
+        "s": "dm_1",
+        "a": "Lòng mạch máu ",
+        "n": [
+            "Thành mạch"
+        ]
+    },
+    {
+        "q": "Cấu trúc gì [2] (Mạch máu 40x])?",
+        "s": "dm_1",
+        "a":  "Thành mạch",
+        "n": [
+           "Lòng mạch máu "
+        ]
+    },
+    {
+        "q": "3 lớp của động mạch tự coi trong vid của thầy Khôi",
+        "a":  "ok",
+        "n": [
+        ]
     }
 ]
