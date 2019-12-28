@@ -1,0 +1,95 @@
+[
+    {
+        "q": "Tiêu bản gì ?",
+        "s": "tnb_1",
+        "a": "Tuyến nước bọt",
+        "n": [
+            "Tuyến giáp",
+            "Tuyến ức",
+            "Hạch bạch huyết",
+            "Lách"
+        ]
+    },
+    {
+        "q": "Cấu trúc gì ? [đỏ]",
+        "s": "tnb_1",
+        "a": "Ống vân",
+        "n": [
+            "Ống bài xuất trong tiểu thùy",
+            "Nang nước",
+            "Ống bài xuất gian tiểu thùy",
+            "Nang nhầy",
+            "Nang pha"
+        ]
+    },
+    {
+        "q": "Cấu trúc gì ? [xanh]",
+        "s": "tnb_1",
+        "a": "Nang nước",
+        "n": [
+            "Ống bài xuất trong tiểu thùy",
+            "Ống vân",
+            "Ống bài xuất gian tiểu thùy",
+            "Nang nhầy",
+            "Nang pha"
+        ]
+    },
+    {
+        "q": "Cấu trúc gì ? [vàng]",
+        "s": "tnb_1",
+        "a": "Ống bài xuất trong tiểu thùy",
+        "n": [
+            "Nang nước",
+            "Ống vân",
+            "Ống bài xuất gian tiểu thùy",
+            "Nang nhầy",
+            "Nang pha"
+        ]
+    },
+    {
+        "q": "Cấu trúc gì ? [vàng]",
+        "s": "tnb_2",
+        "a": "Nang pha",
+        "n": [
+            "Nang nước",
+            "Ống bài xuất trong tiểu thùy",
+            "Ống vân",
+            "Ống bài xuất gian tiểu thùy",
+            "Nang nhầy"
+        ]
+    },
+    {
+        "q": "Cấu trúc gì ? [trắng]",
+        "s": "tnb_2",
+        "a": "Ống vân",
+        "n": [
+            "Nang nước",
+            "Ống bài xuất trong tiểu thùy",
+            "Nang pha",
+            "Ống bài xuất gian tiểu thùy",
+            "Nang nhầy"
+        ]
+    },
+    {
+        "q": "Tiêu bản gì ?",
+        "s": "tuy_1",
+        "a": "Tụy",
+        "n": [
+            "Tuyến giáp",
+            "Tuyến ức",
+            "Hạch bạch huyết",
+            "Lách"
+        ]
+    },
+    {
+        "q": "Tiêu bản gì ?",
+        "s": "tuy_1",
+        "a": "Tụy",
+        "n": [
+            "Tuyến giáp",
+            "Tuyến ức",
+            "Hạch bạch huyết",
+            "Lách"
+        ]
+    }
+]
