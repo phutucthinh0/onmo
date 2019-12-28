@@ -33,11 +33,14 @@ window.onload = function () {
     $("#6").click(function () {
         load(6)
         $("button").remove();
-    });$("#7").click(function () {
+    }); $("#7").click(function () {
         load(7)
         $("button").remove();
-    });$("#8").click(function () {
+    }); $("#8").click(function () {
         load(8)
+        $("button").remove();
+    });$("#9").click(function () {
+        load(9)
         $("button").remove();
     });
 }
